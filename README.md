@@ -3,9 +3,10 @@ Create graphical class diagrams based on a configuration file
 
 ## Set up a directory to process the files
 
+```
 .
-
 ├── input
+```
 
 The input directory is used to hold the configuration file. Add a sample configuration to the input directory e.g. test.sc
 
@@ -53,7 +54,7 @@ The command should ouput a diagram similar to below:
 
 ## Todo
 
-At the moment the error messages are shown in spanish. To amend this simply amend the original file packages downloaded as part of the Dockerfile.
+At the moment the error messages are shown in Spanish. To amend this simply amend the original file packages downloaded as part of the Dockerfile.
 
 I may/may not get around to doing this ;-)
 
